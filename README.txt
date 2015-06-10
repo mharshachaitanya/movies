@@ -4,18 +4,18 @@ prerequisites
 -----------
 
 Python should be installed in the system.
-Webrowser is needed to run the program
+Browser is needed to run the program
 
 
-Steps to run the programm
+Steps to run the program
 -------------
 
-1.open the entertainment_centre.pyfile in IDLE
+1.open the entertainment_centre.py file in IDLE
 2.Run the module (f5)
 3.This will generate favorite_movies.html file
 4.Run the favorite_movies.html file using chrome browser (for best experience)
 
-file detailsand development process
+file details and development process
 -----------
 
 Code is created on top of the code templates obtained from Udacity.
